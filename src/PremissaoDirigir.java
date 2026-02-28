@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PremissaoDirigir{
+public class PermissaoDirigir{
 
      public static void main (String[] args){ 
         System.out.println("Digite sua idade: ");
